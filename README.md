@@ -31,7 +31,6 @@ All courses follow the **"two bricks at a time"** method – exactly two small c
 ## 📫 How to reach me
 
 - GitHub: [@Emperor1456](https://github.com/Emperor1456)
-- (Add LinkedIn / Twitter / email when you’re ready)
 
 ---
 
