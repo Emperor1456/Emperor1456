@@ -11,7 +11,7 @@ Every course is typed, tested, and delivered entirely from an Android phone usin
 
 | Course | Description | Status |
 |--------|-------------|--------|
-| [PyPhone Emperor](https://github.com/Emperor1456/PyPhone_Emperor) | Python from absolute zero – 66 lessons | ✅ Elite |
+| [PyPhone Emperor](https://github.com/Emperor1456/PyPhone_Emperor) | Python from absolute zero – 60 lessons | ✅ Elite |
 | [SQLPhone Emperor](https://github.com/Emperor1456/SQLPhone_Emperor) | SQL & Database Design – 98 lessons | ✅ Elite |
 | [TuxPhone Emperor](https://github.com/Emperor1456/TuxPhone_Emperor) | Linux / Termux mastery – 46 lessons | ✅ Polished |
 | [GitPhone Emperor](https://github.com/Emperor1456/GitPhone_Emperor) | Git & GitHub from a phone – 30 lessons | ✅ Polished |
